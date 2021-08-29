@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hebrew_quizzes_test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hebrew_quizzes_test/static/js/main.6d4cfb23.chunk.js",
+    "main.js.map": "/hebrew_quizzes_test/static/js/main.6d4cfb23.chunk.js.map",
+    "runtime-main.js": "/hebrew_quizzes_test/static/js/runtime-main.5d77db11.js",
+    "runtime-main.js.map": "/hebrew_quizzes_test/static/js/runtime-main.5d77db11.js.map",
+    "static/css/2.bb62364d.chunk.css": "/hebrew_quizzes_test/static/css/2.bb62364d.chunk.css",
+    "static/js/2.5cdab9e5.chunk.js": "/hebrew_quizzes_test/static/js/2.5cdab9e5.chunk.js",
+    "static/js/2.5cdab9e5.chunk.js.map": "/hebrew_quizzes_test/static/js/2.5cdab9e5.chunk.js.map",
+    "static/js/3.001463aa.chunk.js": "/hebrew_quizzes_test/static/js/3.001463aa.chunk.js",
+    "static/js/3.001463aa.chunk.js.map": "/hebrew_quizzes_test/static/js/3.001463aa.chunk.js.map",
+    "index.html": "/hebrew_quizzes_test/index.html",
+    "static/css/2.bb62364d.chunk.css.map": "/hebrew_quizzes_test/static/css/2.bb62364d.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hebrew_quizzes_test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5cdab9e5.chunk.js.LICENSE.txt": "/hebrew_quizzes_test/static/js/2.5cdab9e5.chunk.js.LICENSE.txt",
+    "static/media/bookCover.f334d199.jpg": "/hebrew_quizzes_test/static/media/bookCover.f334d199.jpg",
+    "static/media/semantic.min.css": "/hebrew_quizzes_test/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d77db11.js",
+    "static/css/2.bb62364d.chunk.css",
+    "static/js/2.5cdab9e5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6d4cfb23.chunk.js"
+  ]
+}
